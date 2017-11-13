@@ -16,11 +16,15 @@ public class Client implements InitializingBean, DisposableBean {
 		System.out.println("Client.send() to " + host);
 	}
 
+
+	//빈 객체가 소멸할때  DisposableBean 클래스를 구현
 	@Override
 	public void destroy() throws Exception {
 		System.out.println("Client.destroy() 실행");
 	}
 
+
+	//빈 객체가 생성되고 초기화 할 InitialzingBean 클래스를 구현
 	@Override
 	public void afterPropertiesSet() throws Exception {
 		System.out.println("Client.afterPropertiesSet() 실행");
