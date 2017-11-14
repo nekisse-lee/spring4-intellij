@@ -3,14 +3,4 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-
-
-    <bean id="client" class="spring.Client" scope="prototype">
-        <property name="host" value="프로토타입"/>
-    </bean>
-
-    <bean id="client1" class="spring.Client">
-        <property name="host" value="일반 싱글톤"/>
-    </bean>
-
 </beans>
