@@ -5,6 +5,7 @@
 
 
     <!--@Aspect 가 적용된 빈 객체를 Advice로 사용한다.-->
+
     <aop:aspectj-autoproxy/>
 
     <bean id="exeTimeAspect" class="aspect.ExeTimeaspect2Java"/>

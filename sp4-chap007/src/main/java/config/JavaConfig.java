@@ -8,9 +8,9 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.EnableAspectJAutoProxy;
 
 
-//자바 설정 config
+//자바빈 설정 config   = resource    ???.xml 빈 설정 대체
 @Configuration
-@EnableAspectJAutoProxy
+@EnableAspectJAutoProxy   //  인터페이스 상속 빈객체 말고 일반 객체 사용시  (proxyTargetClass = true) 추가
 public class JavaConfig {
 
     @Bean

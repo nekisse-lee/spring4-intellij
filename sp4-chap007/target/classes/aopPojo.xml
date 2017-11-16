@@ -6,6 +6,8 @@
 
     <bean id="exeTimeAspect" class="aspect.ExeTimeAspect"/>
 
+
+    <!--xml 스키마 기반 설정법-->
     <aop:config>
         <aop:aspect id="measureAspect" ref="exeTimeAspect">
             <aop:pointcut id="publicMethod"

@@ -4,6 +4,8 @@ import chap007.Calculator;
 import config.JavaConfig;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
+
+  // 어노테이션 기반 실행 클래스
 public class MainJavaAspect {
     public static void main(String[] args) {
 
