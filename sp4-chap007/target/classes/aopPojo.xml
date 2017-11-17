@@ -8,6 +8,9 @@
 
 
     <!--xml 스키마 기반 설정법-->
+    <!--         #1  MainXmlPojo.java  주석  부분 코드 실행시
+                <aop:config proxy-target-class="true"> 로 교체      -->
+    <!-- Aspect 설정: Advice를 어떤 Pointcut에 적용할 지 설정 -->
     <aop:config>
         <aop:aspect id="measureAspect" ref="exeTimeAspect">
             <aop:pointcut id="publicMethod"
