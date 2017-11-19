@@ -87,22 +87,22 @@ public class MemberDao {
 	}
 
 	public void update(Member member) {
-//		jdbcTemplate.update(
-//				"update Member set NAME = ?, PASSWORD = ?, where EMAIL = ? ",
-//				member.getName(), member.getPassword(), member.getEmail()
-//		);
+		jdbcTemplate.update(
+				"update MEMBER set NAME = ?, PASSWORD = ? where EMAIL = ? ",
+				member.getName(), member.getPassword(), member.getEmail()
+		);
 // 			NAME = ? 는 member.getName(),   PASSWORD = ? 는 member.getPassword(), EMAIL = ? 는  member.getEmail()
 //		로 쿼리의 인덱스 파라미터의 값으로 사용
 
 			//경우의 따라 PreparedStatement 의 set 메서드를 사용해서 인덱스 파라미터 값을 설정해주어야 할 때가 있다
-		jdbcTemplate.update(new PreparedStatementCreator() {
-			@Override
-			public PreparedStatement createPreparedStatement(Connection con) throws SQLException {
-				PreparedStatement pstmt = con.prepareStatement(
-						"insert into MEMBER(EMAIL, PASSWORD, NAME,REGDATE) values (?,?,?,?)");
-				return pstmt;
-			}
-		});
+//		jdbcTemplate.update(new PreparedStatementCreator() {
+//			@Override
+//			public PreparedStatement createPreparedStatement(Connection con) throws SQLException {
+//				PreparedStatement pstmt = con.prepareStatement(
+//						"insert into MEMBER(EMAIL, PASSWORD, NAME,REGDATE) values (?,?,?,?)");
+//				return pstmt;
+//			}
+//		});
 
 	}
 
