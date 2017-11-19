@@ -67,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChangePasswordService.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ChangePasswordService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../sp4-chap008/src/main/java/spring/ChangePasswordService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="214">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding>
                 <element signature="e#203#204#0" expanded="true" />
                 <element signature="e#236#237#0" expanded="true" />
@@ -83,8 +83,18 @@
       <file leaf-file-name="AlreadyExistingMemberException.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../sp4-chap008/src/main/java/spring/AlreadyExistingMemberException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="90">
+              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appCTX.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../sp4-chap008/src/main/resources/appCTX.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="37" column="88" lean-forward="false" selection-start-line="37" selection-start-column="88" selection-end-line="37" selection-end-column="88" />
               <folding />
             </state>
           </provider>
@@ -178,13 +188,13 @@
         <option value="$PROJECT_DIR$/../sp4-chap008/src/sql/ddl.sql" />
         <option value="$PROJECT_DIR$/../sp4-chap008/src/main/java/spring/MemberRowMapper.java" />
         <option value="$PROJECT_DIR$/../sp4-chap008/src/main/java/main/MainForMemberDao.java" />
-        <option value="$PROJECT_DIR$/../sp4-chap008/src/main/resources/appCTX.xml" />
         <option value="$PROJECT_DIR$/../sp4-chap008/src/main/java/spring/MainForCPS.java" />
         <option value="$PROJECT_DIR$/../sp4-chap008/pom.xml" />
         <option value="$PROJECT_DIR$/../sp4-chap008/src/main/resources/log4j.xml" />
         <option value="$PROJECT_DIR$/../sp4-chap008/src/main/java/spring/ChangePasswordService.java" />
         <option value="$PROJECT_DIR$/../sp4-chap008/src/main/java/main/MainForCPS.java" />
         <option value="$PROJECT_DIR$/../sp4-chap008/src/main/java/spring/MemberDao.java" />
+        <option value="$PROJECT_DIR$/../sp4-chap008/src/main/resources/appCTX.xml" />
       </list>
     </option>
   </component>
@@ -567,7 +577,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35312000" />
+    <option name="totallyTimeSpent" value="35876000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -936,14 +946,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../sp4-chap008/src/main/java/spring/AlreadyExistingMemberException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../sp4-chap008/src/main/java/spring/MemberRowMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -951,14 +953,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sp4-chap008/src/main/java/spring/MemberRegisterService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -986,14 +980,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../sp4-chap008/src/main/resources/appCTX.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="42" lean-forward="false" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../sp4-chap008/src/main/java/main/MainForMemberDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
@@ -1009,32 +995,6 @@
         <state relative-caret-position="97">
           <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sp4-chap008/src/main/java/spring/MemberDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="90" column="68" lean-forward="true" selection-start-line="90" selection-start-column="68" selection-end-line="90" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1511083039000" expanded="true" signature="1608:1644" ph="select * fro... MEMBER" />
-            <marker date="1511083039000" expanded="true" signature="2055:2106" ph="insert into MEMBER... " />
-            <marker date="1511083039000" expanded="true" signature="2055:2124" ph="insert into MEMBER... " />
-            <marker date="1511083039000" expanded="true" signature="2055:2125" ph="insert into MEMBER... " />
-            <marker date="1511083039000" expanded="true" signature="2055:2127" ph="insert into MEMBER... " />
-            <marker date="1511083039000" expanded="true" signature="2055:2128" ph="insert into MEMBER... " />
-            <marker date="1511083039000" expanded="true" signature="2055:2132" ph="insert into MEMBER... " />
-            <marker date="1511083039000" expanded="true" signature="2055:2133" ph="insert into MEMBER... " />
-            <marker date="1511083039000" expanded="true" signature="2055:2134" ph="insert into MEMBER... " />
-            <marker date="1511083039000" expanded="true" signature="2567:2623" ph="update MEMBE... " />
-            <marker date="1511083039000" expanded="true" signature="3127:3193" ph="insert into MEMBER... " />
-            <marker date="1511083039000" expanded="true" signature="3326:3346" ph="select * fro... MEMBER" />
-            <marker date="1511083039000" expanded="true" signature="4051:4071" ph="select * fro... Member" />
-            <marker date="1511083039000" expanded="true" signature="4206:4233" ph="select count... MEMBER" />
-            <marker date="1511083039000" expanded="true" signature="4603:4630" ph="select count... MEMBER" />
-            <marker date="1511083039000" expanded="true" signature="5062:5095" ph="select * fro... MEMBER" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1066,12 +1026,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../sp4-chap008/src/main/java/spring/ChangePasswordService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="214">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
             <element signature="e#203#204#0" expanded="true" />
             <element signature="e#236#237#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap008/src/main/java/spring/MemberRegisterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap008/src/main/java/spring/MemberDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="90" column="68" lean-forward="true" selection-start-line="90" selection-start-column="68" selection-end-line="90" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1511083039000" expanded="true" signature="1608:1644" ph="select * fro... MEMBER" />
+            <marker date="1511083039000" expanded="true" signature="2055:2106" ph="insert into MEMBER... " />
+            <marker date="1511083039000" expanded="true" signature="2055:2124" ph="insert into MEMBER... " />
+            <marker date="1511083039000" expanded="true" signature="2055:2125" ph="insert into MEMBER... " />
+            <marker date="1511083039000" expanded="true" signature="2055:2127" ph="insert into MEMBER... " />
+            <marker date="1511083039000" expanded="true" signature="2055:2128" ph="insert into MEMBER... " />
+            <marker date="1511083039000" expanded="true" signature="2055:2132" ph="insert into MEMBER... " />
+            <marker date="1511083039000" expanded="true" signature="2055:2133" ph="insert into MEMBER... " />
+            <marker date="1511083039000" expanded="true" signature="2055:2134" ph="insert into MEMBER... " />
+            <marker date="1511083039000" expanded="true" signature="2567:2623" ph="update MEMBE... " />
+            <marker date="1511083039000" expanded="true" signature="3127:3193" ph="insert into MEMBER... " />
+            <marker date="1511083039000" expanded="true" signature="3326:3346" ph="select * fro... MEMBER" />
+            <marker date="1511083039000" expanded="true" signature="4051:4071" ph="select * fro... Member" />
+            <marker date="1511083039000" expanded="true" signature="4206:4233" ph="select count... MEMBER" />
+            <marker date="1511083039000" expanded="true" signature="4603:4630" ph="select count... MEMBER" />
+            <marker date="1511083039000" expanded="true" signature="5062:5095" ph="select * fro... MEMBER" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap008/src/main/java/spring/AlreadyExistingMemberException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap008/src/main/resources/appCTX.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="37" column="88" lean-forward="false" selection-start-line="37" selection-start-column="88" selection-end-line="37" selection-end-column="88" />
+          <folding />
         </state>
       </provider>
     </entry>
