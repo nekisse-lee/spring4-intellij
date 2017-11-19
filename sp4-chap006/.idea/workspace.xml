@@ -90,23 +90,17 @@
       <file leaf-file-name="MemberDao.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../sp4-chap008/src/main/java/spring/MemberDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="526">
-              <caret line="89" column="0" lean-forward="true" selection-start-line="68" selection-start-column="4" selection-end-line="89" selection-end-column="0" />
+            <state relative-caret-position="30">
+              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="61" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#629#630#0" expanded="true" />
-                <element signature="e#684#685#0" expanded="true" />
-                <element signature="e#1736#2238#0" expanded="true" />
-                <element signature="e#2237#2238#0" expanded="true" />
-                <marker date="1511073311000" expanded="true" signature="693:804" ph="..." />
-                <marker date="1511073311000" expanded="true" signature="910:946" ph="select * fro... MEMBER" />
-                <marker date="1511073311000" expanded="true" signature="1477:1513" ph="select * fro... MEMBER" />
-                <marker date="1511073311000" expanded="true" signature="1931:1999" ph="insert into MEMBER... " />
-                <marker date="1511073311000" expanded="true" signature="2275:2331" ph="update MEMBE... " />
-                <marker date="1511073311000" expanded="true" signature="2497:2517" ph="select * fro... Member" />
-                <marker date="1511073311000" expanded="true" signature="2996:3016" ph="select * fro... Member" />
-                <marker date="1511073311000" expanded="true" signature="3147:3174" ph="select count... MEMBER" />
-                <marker date="1511073311000" expanded="true" signature="3578:3605" ph="select count... MEMBER" />
+                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#608#609#0" expanded="true" />
+                <marker date="1510997102000" expanded="true" signature="617:728" ph="..." />
+                <marker date="1510997102000" expanded="true" signature="834:870" ph="select * fro... MEMBER" />
+                <marker date="1510997102000" expanded="true" signature="1401:1437" ph="select * fro... MEMBER" />
+                <marker date="1510997102000" expanded="true" signature="1739:1759" ph="select * fro... Member" />
+                <marker date="1510997102000" expanded="true" signature="2238:2258" ph="select * fro... Member" />
               </folding>
             </state>
           </provider>
@@ -149,7 +143,6 @@
       <find>fiveFace</find>
       <find>rec</find>
       <find>impe</find>
-      <find>update</find>
     </findStrings>
   </component>
   <component name="GradleLocalSettings">
@@ -556,12 +549,12 @@
       <workItem from="1510659088687" duration="498000" />
       <workItem from="1510730829116" duration="12464000" />
       <workItem from="1510903220190" duration="3737000" />
-      <workItem from="1510908883287" duration="6995000" />
+      <workItem from="1510908883287" duration="4443000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31483000" />
+    <option name="totallyTimeSpent" value="28931000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -569,7 +562,6 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4717557" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -595,6 +587,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4717557" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -993,23 +986,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../sp4-chap008/src/main/java/spring/MemberDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="89" column="0" lean-forward="true" selection-start-line="68" selection-start-column="4" selection-end-line="89" selection-end-column="0" />
+        <state relative-caret-position="30">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="61" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#684#685#0" expanded="true" />
-            <element signature="e#1736#2238#0" expanded="true" />
-            <element signature="e#2237#2238#0" expanded="true" />
-            <marker date="1511073311000" expanded="true" signature="693:804" ph="..." />
-            <marker date="1511073311000" expanded="true" signature="910:946" ph="select * fro... MEMBER" />
-            <marker date="1511073311000" expanded="true" signature="1477:1513" ph="select * fro... MEMBER" />
-            <marker date="1511073311000" expanded="true" signature="1931:1999" ph="insert into MEMBER... " />
-            <marker date="1511073311000" expanded="true" signature="2275:2331" ph="update MEMBE... " />
-            <marker date="1511073311000" expanded="true" signature="2497:2517" ph="select * fro... Member" />
-            <marker date="1511073311000" expanded="true" signature="2996:3016" ph="select * fro... Member" />
-            <marker date="1511073311000" expanded="true" signature="3147:3174" ph="select count... MEMBER" />
-            <marker date="1511073311000" expanded="true" signature="3578:3605" ph="select count... MEMBER" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <marker date="1510997102000" expanded="true" signature="617:728" ph="..." />
+            <marker date="1510997102000" expanded="true" signature="834:870" ph="select * fro... MEMBER" />
+            <marker date="1510997102000" expanded="true" signature="1401:1437" ph="select * fro... MEMBER" />
+            <marker date="1510997102000" expanded="true" signature="1739:1759" ph="select * fro... Member" />
+            <marker date="1510997102000" expanded="true" signature="2238:2258" ph="select * fro... Member" />
           </folding>
         </state>
       </provider>
