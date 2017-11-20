@@ -36,10 +36,27 @@
     <!--
     @Transactional 어노테이션이 붙은 메서드를 트랜잭션 범위에서 실행하는 기능을 활성화
     transaction-manager 속성을 사용해서 트랜잭션을 수행할 때 사용할  PlatfromTransactionManager 빈을 지정      -->
-    <tx:annotation-driven transaction-manager="transactionManager"/>
+    <tx:annotation-driven transaction-manager="transactionManager" />
 
     <bean id="changePwdSvc" class="spring.ChangePasswordService">
         <constructor-arg ref="memberDao"/>
+    </bean>
+
+    <bean id="memberRegSvc" class="spring.MemberRegisterService">
+        <constructor-arg ref="memberDao" />
+    </bean>
+
+    <bean id="memberPrinter" class="spring.MemberPrinter">
+    </bean>
+
+    <bean id="listPrinter" class="spring.MemberListPrinter">
+        <constructor-arg ref="memberDao" />
+        <constructor-arg ref="memberPrinter" />
+    </bean>
+
+    <bean id="infoPrinter" class="spring.MemberInfoPrinter">
+        <property name="memberDao" ref="memberDao" />
+        <property name="printer" ref="memberPrinter" />
     </bean>
 
 
