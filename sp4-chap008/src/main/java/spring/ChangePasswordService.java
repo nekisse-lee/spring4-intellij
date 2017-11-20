@@ -10,7 +10,7 @@ public class ChangePasswordService {
 		this.memberDao = memberDao;
 	}
 
-	@Transactional
+	@Transactional     //  (rollbackFor = SQLException.class)  {}여러개의 익셉션 타입을 지정하고싶을땐 배열로 지정
 	public void changePassword(String email, String oldPwd, String newPwd) {
 		Member member = memberDao.selectByEmail(email);
 		if (member == null)
