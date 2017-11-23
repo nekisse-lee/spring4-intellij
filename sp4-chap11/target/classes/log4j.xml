@@ -5,7 +5,7 @@
 <log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/">
 	<appender name="console" class="org.apache.log4j.ConsoleAppender">
 		<layout class="org.apache.log4j.PatternLayout">
-			<param name="ConversionPattern" 
+			1<param name="ConversionPattern"
 				value="[%t] [%d{yyyy-MM-dd HH:mm:ss}] %-5p %c:%M - %m%n" />
 		</layout>
 	</appender>
