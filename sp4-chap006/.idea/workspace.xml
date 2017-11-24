@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="sp4chap0011:war" />
+      <artifact name="sp4-chap0012:war" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
@@ -15,6 +15,7 @@
     <ignored path="$PROJECT_DIR$/../../sp4-chap0011/target/" />
     <ignored path="$PROJECT_DIR$/../sp4-chap11/target/" />
     <ignored path="$PROJECT_DIR$/../sp4-chap0011/target/" />
+    <ignored path="$PROJECT_DIR$/../sp4-chap0012/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,46 +39,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="spring-controller.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/resources/spring-controller.xml">
+      <file leaf-file-name="step2.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/webapp/WEB-INF/view/register/step2.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+            <state relative-caret-position="390">
+              <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Respondent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/java/survey/Respondent.java">
+      <file leaf-file-name="step3.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/webapp/WEB-INF/view/register/step3.jsp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
-              <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="71" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="surveyForm.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/webapp/WEB-INF/view/survey/surveyForm.jsp">
+      <file leaf-file-name="RegisterRequestValidator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/java/controller/RegisterRequestValidator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SurveyController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/java/survey/SurveyController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+            <state relative-caret-position="270">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1497#1498#0" expanded="true" />
-                <element signature="e#1538#1539#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#266#267#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="label.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/resources/message/label.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -88,8 +89,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="spring-beans.schema" />
         <option value="Jsp File" />
+        <option value="spring-beans.schema" />
+        <option value="Kotlin File" />
         <option value="Class" />
       </list>
     </option>
@@ -133,14 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../sp4-chap0009/pom.xml" />
-        <option value="$PROJECT_DIR$/../sp4-chap009/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/../sp4-chap009/web/WEB-INF/view/hello.js" />
-        <option value="$PROJECT_DIR$/../sp4-chap009/web/WEB-INF/view/hello.jsp" />
-        <option value="$PROJECT_DIR$/../sp4-chap009/src/main/webapp/web/WEB-INF/view/hello.jsp" />
-        <option value="$PROJECT_DIR$/../sp4-chap009/src/main/resources/spring-controller.xml" />
-        <option value="$PROJECT_DIR$/../sp4-chap009/src/main/webapp/WEB-INF/server-config.wsdd" />
-        <option value="$PROJECT_DIR$/../sp4-chap009/src/main/resources/spring-mvc.xml" />
         <option value="$PROJECT_DIR$/../sp4-chap009/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/../sp4-chap009/src/main/java/chap009/HelloController.java" />
         <option value="$PROJECT_DIR$/../sp4-chap009/pom.xml" />
@@ -184,6 +178,14 @@
         <option value="$PROJECT_DIR$/../sp4-chap0011/src/main/webapp/WEB-INF/view/survey/surveyForm33.jsp" />
         <option value="$PROJECT_DIR$/../sp4-chap0011/src/main/resources/spring-controller.xml" />
         <option value="$PROJECT_DIR$/../sp4-chap0011/src/main/java/survey/SurveyController.java" />
+        <option value="$PROJECT_DIR$/../sp4-chap0012/pom.xml" />
+        <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/resources/spring-mvc.xml" />
+        <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/webapp/WEB-INF/view/register/step1.jsp" />
+        <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/webapp/WEB-INF/view/register/step2.jsp" />
+        <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/resources/message/label.properties" />
+        <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/webapp/WEB-INF/view/register/step3.jsp" />
+        <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/java/controller/RegisterRequestValidator.java" />
       </list>
     </option>
   </component>
@@ -206,7 +208,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="773" />
@@ -248,6 +250,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -259,86 +262,85 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="sp4-chap006" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp4-chap0011" type="462c0819:PsiDirectoryNode" />
+              <item name="sp4-chap0012" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sp4-chap006" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp4-chap0011" type="462c0819:PsiDirectoryNode" />
+              <item name="sp4-chap0012" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sp4-chap006" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp4-chap0011" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sp4-chap006" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp4-chap0011" type="462c0819:PsiDirectoryNode" />
+              <item name="sp4-chap0012" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sp4-chap006" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp4-chap0011" type="462c0819:PsiDirectoryNode" />
+              <item name="sp4-chap0012" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="survey" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sp4-chap006" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp4-chap0011" type="462c0819:PsiDirectoryNode" />
+              <item name="sp4-chap0012" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sp4-chap006" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sp4-chap0012" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sp4-chap006" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp4-chap0011" type="462c0819:PsiDirectoryNode" />
+              <item name="sp4-chap0012" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sp4-chap006" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp4-chap0011" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sp4-chap006" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp4-chap0011" type="462c0819:PsiDirectoryNode" />
+              <item name="sp4-chap0012" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sp4-chap006" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp4-chap0011" type="462c0819:PsiDirectoryNode" />
+              <item name="sp4-chap0012" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
               <item name="view" type="462c0819:PsiDirectoryNode" />
-              <item name="survey" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sp4-chap006" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sp4-chap0012" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="register" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -358,11 +360,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../sp4-chap0012/src/main" />
+      <recent name="$PROJECT_DIR$/../sp4-chap0012/src/main/resources" />
+      <recent name="$PROJECT_DIR$/../sp4-chap0012/src/main/java" />
       <recent name="$PROJECT_DIR$/../sp4-chap0011/src/main/webapp/WEB-INF/view/survey" />
       <recent name="$PROJECT_DIR$/../sp4-chap0011/src/main/webapp/WEB-INF/view" />
-      <recent name="$PROJECT_DIR$/../sp4-chap0011/src/main/resources" />
-      <recent name="$PROJECT_DIR$/../sp4-chap0011/web/WEB-INF/view/register" />
-      <recent name="$PROJECT_DIR$/../sp4-chap0011/src/main/java/spring" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="survey" />
@@ -488,7 +490,7 @@
     <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.27" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
-        <artifact name="sp4chap0011:war">
+        <artifact name="sp4-chap0012:war">
           <settings>
             <option name="CONTEXT_PATH" value="/" />
           </settings>
@@ -553,7 +555,7 @@
       </ConfigurationWrapper>
       <method>
         <option name="BuildArtifacts" enabled="true">
-          <artifact name="sp4chap0011:war" />
+          <artifact name="sp4-chap0012:war" />
         </option>
       </method>
     </configuration>
@@ -761,15 +763,16 @@
       <workItem from="1511339459372" duration="5061000" />
       <workItem from="1511413773542" duration="2038000" />
       <workItem from="1511416186825" duration="813000" />
-      <workItem from="1511417059038" duration="3276000" />
+      <workItem from="1511417059038" duration="5865000" />
+      <workItem from="1511512191192" duration="3604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84611000" />
+    <option name="totallyTimeSpent" value="90804000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="773" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -789,11 +792,11 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.022900764" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7557252" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3029079" sideWeight="0.48387095" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30775446" sideWeight="0.48387095" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28836834" sideWeight="0.516129" order="2" side_tool="true" content_ui="tabs" />
@@ -855,83 +858,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../sp4-chap0011/src/main/java/controller/RegisterController.java" />
-    <entry file="file://$PROJECT_DIR$/../../sp4-chap0011/web/WEB-INF/applicationContext.xml" />
-    <entry file="file://$PROJECT_DIR$/../../sp4-chap0011/web/WEB-INF/server-config.wsdd" />
-    <entry file="file://$PROJECT_DIR$/../../sp4-chap0011/web/WEB-INF/dispatcher-servlet.xml" />
-    <entry file="file://$PROJECT_DIR$/../../sp4-chap0011/src/main/web/WEB-INF/spring-controller.xml" />
-    <entry file="file://$PROJECT_DIR$/../../sp4-chap0011/src/main/web/WEB-INF/spring-member.xml" />
-    <entry file="file://$PROJECT_DIR$/../../sp4-chap0011/src/main/web/WEB-INF/web.xml" />
-    <entry file="file://$PROJECT_DIR$/../../sp4-chap0011/src/main/web/WEB-INF/spring-member.xml" />
-    <entry file="file://$PROJECT_DIR$/../../sp4-chap0011/src/main/web/WEB-INF/spring-controller.xml" />
-    <entry file="file://$PROJECT_DIR$/../../sp4-chap0011/src/main/web/WEB-INF/spring-mvc.xml" />
-    <entry file="file://$PROJECT_DIR$/../sp4-chap011/sp4-chap11/src/main/java/spring/Member.java" />
-    <entry file="file://$PROJECT_DIR$/../sp4-chap011/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/../sp4-chap011/web/WEB-INF/web.xml" />
-    <entry file="file://$PROJECT_DIR$/../sp4-chap11/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="24" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="72" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/java/spring/MemberNotFoundException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/java/spring/Member.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/java/spring/AlreadyExistingMemberException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/java/spring/IdPasswordNotMatchingException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/java/spring/ChangePasswordService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/java/spring/MemberDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/webapp/WEB-INF/server-config.wsdd" />
-    <entry file="file://$PROJECT_DIR$/../sp4-chap11/src/main/resources/spring-mvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sp4-chap11/src/main/resources/spring-member.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="44" lean-forward="false" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../sp4-chap11/src/main/java/controller/RegisterController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -958,7 +884,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="8" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -981,7 +906,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -989,14 +913,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/webapp/WEB-INF/view/register/step2.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="18" column="48" lean-forward="true" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1025,7 +941,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="22" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="20" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1037,30 +952,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../sp4-chap0011/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="44" column="21" lean-forward="false" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/webapp/WEB-INF/view/main.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/webapp/WEB-INF/view/survey/surveyForm22.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/webapp/WEB-INF/view/survey/surveyForm22.jsp" />
     <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/resources/spring-member.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
@@ -1077,22 +976,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/java/survey/SurveyController33.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="29" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/webapp/WEB-INF/view/survey/surveyForm33.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/java/survey/SurveyController33.java" />
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/webapp/WEB-INF/view/survey/surveyForm33.jsp" />
     <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/webapp/WEB-INF/view/survey/submitted.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1105,7 +990,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1113,17 +997,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/java/survey/Respondent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1138,19 +1018,205 @@
     <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/java/survey/SurveyController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1497#1498#0" expanded="true" />
-            <element signature="e#1538#1539#0" expanded="true" />
-          </folding>
+          <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/webapp/WEB-INF/view/survey/surveyForm.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        <state relative-caret-position="345">
+          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/java/example/HelloWorld.java" />
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/java/survey/SurveyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/java/spring/RegisterRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/java/survey/Respondent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/java/spring/AlreadyExistingMemberException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/java/spring/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/java/spring/MemberDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/java/spring/MemberRegisterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/java/survey/AnsweredData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/java/spring/MemberNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0011/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="72" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/webapp/WEB-INF/view/survey/submitted.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/java/spring/IdPasswordNotMatchingException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/java/controller/RegisterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/resources/log4j.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/resources/message/label.properties.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/webapp/WEB-INF/view/register/step1.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/webapp/WEB-INF/view/register/step2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/webapp/WEB-INF/view/register/step2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="7" lean-forward="false" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/resources/message/label.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="28" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/resources/spring-mvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/java/controller/RegisterRequestValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/webapp/WEB-INF/view/register/step3.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="71" />
           <folding />
         </state>
       </provider>
@@ -1220,7 +1286,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>webapp|sp4chap0011</last-edited>
+          <last-edited>webapp|sp4-chap0012</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
