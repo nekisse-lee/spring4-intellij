@@ -19,4 +19,10 @@
 
 	<bean class="survey.SurveyController">
 	</bean>
+
+	<bean class="controller.LoginController">
+		<property name="authService" ref="authService"/>
+	</bean>
+
+	<bean class="controller.LogoutController"/>
 </beans>

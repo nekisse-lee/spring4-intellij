@@ -2,6 +2,7 @@ package controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.validation.Errors;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -42,13 +43,19 @@ public class RegisterController {
     }
 
     @RequestMapping(value = "/register/step3", method = RequestMethod.POST)
-    public String handleStep3(RegisterRequest regReq) {
+    public String handleStep3(RegisterRequest regReq, Errors errors) {
+        new RegisterRequestValidator().validate(regReq, errors);
+        if (errors.hasErrors()) {
+            return "register/step2";
+        }
         try {
             memberRegisterService.regist(regReq);
             return "register/step3";
         } catch (AlreadyExistingMemberException ex) {
+            errors.rejectValue("email", "duplicate");
             return "register/step2";
         }
+
     }
 //    public String handleStep3(HttpServletRequest request) {
 //        String email = request.getParameter("eamail");

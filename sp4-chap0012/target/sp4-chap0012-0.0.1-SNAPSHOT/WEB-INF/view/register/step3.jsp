@@ -3,7 +3,7 @@
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags" %>
 <html>
 <head>
-    <title><spring:message code="member.register" </title>
+    <title><spring:message code="member.register"/> </title>
 </head>
 <body>
 <p>
@@ -13,6 +13,7 @@
 <p>
     <a href="<c:url value='/main'/>">
         [<spring:message code="go.main"/>]
+    </a>
 </p>
 </body>
 </html>

@@ -16,6 +16,8 @@
 		<mvc:jsp prefix="/WEB-INF/view/" />
 	</mvc:view-resolvers>
 
+
+	<!--spring:massage 사용하기위한 설정-->
 	<bean id="messageSource"
 		  class="org.springframework.context.support.ResourceBundleMessageSource">
 		<property name="basenames">
