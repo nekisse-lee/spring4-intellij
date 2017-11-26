@@ -39,11 +39,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ChangePwdController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ChangePwdController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/java/controller/ChangePwdController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="191">
               <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AuthCheckInterceptor.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/java/interceptor/AuthCheckInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="47" lean-forward="false" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -109,7 +121,7 @@
       <file leaf-file-name="changedPwd.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/webapp/WEB-INF/view/edit/changedPwd.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
+            <state relative-caret-position="195">
               <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
               <folding />
             </state>
@@ -119,8 +131,8 @@
       <file leaf-file-name="spring-controller.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/resources/spring-controller.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
+            <state relative-caret-position="233">
+              <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -144,8 +156,8 @@
         <option value="JavaScript File" />
         <option value="spring-beans.schema" />
         <option value="Kotlin File" />
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -191,7 +203,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../sp4-chap0011/pom.xml" />
         <option value="$PROJECT_DIR$/../sp4-chap0011/src/main/java/spring/Member.java" />
         <option value="$PROJECT_DIR$/../sp4-chap0011/web/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/../sp4-chap11/src/main/resources/spring-member.xml" />
@@ -239,9 +250,10 @@
         <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/java/controller/ChangePwdCommandValidator.java" />
         <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/webapp/WEB-INF/view/edit/changedPwd.jsp" />
         <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/resources/message/label.properties" />
-        <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/resources/spring-controller.xml" />
         <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/webapp/WEB-INF/view/edit/changePwdForm.jsp" />
         <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/java/controller/ChangePwdController.java" />
+        <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/resources/spring-controller.xml" />
+        <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/java/interceptor/AuthCheckinterceptor.java" />
       </list>
     </option>
   </component>
@@ -350,15 +362,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sp4-chap006" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sp4-chap0012" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="survey" type="462c0819:PsiDirectoryNode" />
+              <item name="interceptor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sp4-chap006" type="b2602c69:ProjectViewProjectNode" />
@@ -431,17 +435,8 @@
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="sp4-chap006" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../sp4-chap0011/src/main/webapp" />
-      <recent name="$PROJECT_DIR$/../sp4-chap0011/src" />
-      <recent name="$PROJECT_DIR$/../../sp4-chap0011/src/main/resources" />
-      <recent name="$PROJECT_DIR$/../../sp4-chap0011/src/main" />
-      <recent name="$PROJECT_DIR$/../sp4-chap009/src/main/webapp/WEB-INF/view" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="survey" />
-      <recent name="controller" />
-      <recent name="main" />
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="interceptor" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../sp4-chap0012/src/main/webapp/WEB-INF/view" />
@@ -449,6 +444,18 @@
       <recent name="$PROJECT_DIR$/../sp4-chap0012/src/main/resources" />
       <recent name="$PROJECT_DIR$/../sp4-chap0012/src/main/java" />
       <recent name="$PROJECT_DIR$/../sp4-chap0011/src/main/webapp/WEB-INF/view/survey" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="survey" />
+      <recent name="controller" />
+      <recent name="main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../sp4-chap0011/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/../sp4-chap0011/src" />
+      <recent name="$PROJECT_DIR$/../../sp4-chap0011/src/main/resources" />
+      <recent name="$PROJECT_DIR$/../../sp4-chap0011/src/main" />
+      <recent name="$PROJECT_DIR$/../sp4-chap009/src/main/webapp/WEB-INF/view" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -838,15 +845,16 @@
       <workItem from="1511417059038" duration="5865000" />
       <workItem from="1511512191192" duration="7821000" />
       <workItem from="1511605303664" duration="3906000" />
-      <workItem from="1511678815111" duration="3541000" />
+      <workItem from="1511678815111" duration="5425000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102468000" />
+    <option name="totallyTimeSpent" value="104352000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8564885" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
@@ -866,7 +874,7 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6687023" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6687023" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26332796" sideWeight="0.4778626" order="0" side_tool="false" content_ui="combo" />
@@ -931,14 +939,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/resources/spring-controller.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../sp4-chap0011/src/main/java/survey/SurveyController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -1377,42 +1377,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/java/spring/ChangePasswordService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/webapp/WEB-INF/view/edit/changedPwd.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/resources/spring-controller.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="28" column="34" lean-forward="true" selection-start-line="28" selection-start-column="34" selection-end-line="28" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/resources/spring-member.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="29">
           <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/webapp/WEB-INF/view/edit/changePwdForm.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -1429,6 +1397,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="191">
           <caret line="28" column="37" lean-forward="true" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/java/spring/ChangePasswordService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/webapp/WEB-INF/view/edit/changePwdForm.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="26" lean-forward="false" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/webapp/WEB-INF/view/edit/changedPwd.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/resources/spring-controller.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/java/interceptor/AuthCheckInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="47" lean-forward="false" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
