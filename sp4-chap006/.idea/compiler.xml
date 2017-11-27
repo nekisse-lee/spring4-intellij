@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="sp4-chap0012" />
+        <module name="sp4-chap0013" />
         <module name="sp4-chap11" />
         <module name="sp4chap0011" />
       </profile>
@@ -14,6 +15,7 @@
     <bytecodeTargetLevel>
       <module name="sp4-chap0011" target="1.7" />
       <module name="sp4-chap0012" target="1.7" />
+      <module name="sp4-chap0013" target="1.7" />
       <module name="sp4-chap006" target="1.7" />
       <module name="sp4-chap007" target="1.7" />
       <module name="sp4-chap008" target="1.7" />
