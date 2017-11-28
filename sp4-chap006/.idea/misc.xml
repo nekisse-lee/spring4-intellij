@@ -5,6 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/../sp4-chap0011" />
     <file type="web" url="file://$PROJECT_DIR$/../sp4-chap0012" />
     <file type="web" url="file://$PROJECT_DIR$/../sp4-chap0013" />
+    <file type="web" url="file://$PROJECT_DIR$/../sp4-chap0014" />
     <file type="web" url="file://$PROJECT_DIR$/../sp4-chap009" />
     <file type="web" url="file://$PROJECT_DIR$/../sp4-chap011" />
     <file type="web" url="file://$PROJECT_DIR$/../sp4-chap11" />
@@ -20,6 +21,7 @@
         <option value="$PROJECT_DIR$/../sp4-chap0011/pom.xml" />
         <option value="$PROJECT_DIR$/../sp4-chap0012/pom.xml" />
         <option value="$PROJECT_DIR$/../sp4-chap0013/pom.xml" />
+        <option value="$PROJECT_DIR$/../sp4-chap0014/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
