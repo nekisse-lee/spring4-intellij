@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="chap-02" />
         <module name="sp4-chap0012" />
         <module name="sp4-chap0013" />
         <module name="sp4-chap0014" />
@@ -14,6 +15,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="chap-02" target="1.7" />
       <module name="sp4-chap0011" target="1.7" />
       <module name="sp4-chap0012" target="1.7" />
       <module name="sp4-chap0013" target="1.7" />

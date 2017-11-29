@@ -39,6 +39,7 @@ public class ChangePwdController {
         }
         AuthInfo authInfo = (AuthInfo) session.getAttribute("authInfo");
         try {
+            //컨트롤러는 로직 실행을 서비스에 위임한다.
             changePasswordService.changePassword(
                     authInfo.getEmail(),
                     pwdCmd.getCurrentPassword(),
