@@ -1,15 +1,22 @@
 package main;
 
 import assembler.Assembler;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.GenericXmlApplicationContext;
 import spring.*;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class MainForAssembler {
+public class MainForSpring {
+
+    private static ApplicationContext ctx = null;
 
     public static void main(String[] args) throws IOException {
+
+        ctx = new GenericXmlApplicationContext("classpath:appCtx.xml");
+
         BufferedReader reader =
                 new BufferedReader(new InputStreamReader(System.in));
 
@@ -27,11 +34,18 @@ public class MainForAssembler {
             } else if (command.startsWith("change ")) {
                 processChangeCommand(command.split(" "));
                 continue;
+            } else if (command.equals("list")) {
+                processListCommand();
+                continue;
+            } else if (command.startsWith("info ")) {
+                processInfoCommand(command.split(" "));
+                continue;
             }
             printHelp();
         }
 
     }
+
 
 
 
@@ -42,7 +56,9 @@ public class MainForAssembler {
             printHelp();
             return;
         }
-        MemberRegisterService regSvc = assembler.getMemberRegisterService();
+        //appCtx.xml 스프링 빈 으로 설정
+        MemberRegisterService regSvc =
+                ctx.getBean("memberRegSvc", MemberRegisterService.class);
         RegisterRequest req = new RegisterRequest();
         req.setEmail(arg[1]);
         req.setName(arg[2]);
@@ -67,8 +83,10 @@ public class MainForAssembler {
             printHelp();
             return;
         }
+
+        //appCtx.xml 스프링 빈 으로 설정
         ChangePasswordService changePwdSvc =
-                assembler.getMemberChangePasswordService();
+                ctx.getBean("changePwdSvc", ChangePasswordService.class);
         try {
             changePwdSvc.changePassword(arg[1], arg[2], arg[3]);
             System.out.println("암호를 변경 했습니다.\n");
@@ -87,6 +105,22 @@ public class MainForAssembler {
         System.out.println("new 이메일 이름 암호 암호확인");
         System.out.println("change 이메일 현재비번 변경비번");
         System.out.println();
+    }
+
+    private static void processListCommand() {
+        MemberListPrinter listPrinter =
+                ctx.getBean("listPrinter", MemberListPrinter.class);
+        listPrinter.printAll();
+    }
+
+    private static void processInfoCommand(String[] arg) {
+        if (arg.length != 2) {
+            printHelp();
+            return;
+        }
+        MemberInfoPrinter infoPrinter =
+                ctx.getBean("infoPrinter", MemberInfoPrinter.class);
+        infoPrinter.printMemberInfo(arg[1]);
     }
 
 
