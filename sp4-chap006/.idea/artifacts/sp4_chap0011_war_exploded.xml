@@ -1,5 +1,5 @@
 <component name="ArtifactManager">
-  <artifact type="exploded-war" name="sp4chap0011:war exploded">
+  <artifact type="exploded-war" name="sp4-chap0011:war exploded">
     <output-path>$PROJECT_DIR$/../sp4-chap0011/target/sp4-chap0011-0.0.1-SNAPSHOT</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
