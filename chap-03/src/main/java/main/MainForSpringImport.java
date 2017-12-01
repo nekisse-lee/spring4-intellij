@@ -9,13 +9,13 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class MainForSpring {
+public class MainForSpringImport {
 
     private static ApplicationContext ctx = null;
 
     public static void main(String[] args) throws IOException {
-
-        ctx = new GenericXmlApplicationContext("classpath:appCtx.xml");
+        String[] conf = {"classpath:configImport.xml"};
+        ctx = new GenericXmlApplicationContext(conf);
 
         BufferedReader reader =
                 new BufferedReader(new InputStreamReader(System.in));

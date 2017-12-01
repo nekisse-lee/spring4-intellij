@@ -43,64 +43,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MemberDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../chap-03/src/main/java/spring/MemberDao.java">
+      <file leaf-file-name="conf1.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../chap-03/src/main/resources/conf1.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            <state relative-caret-position="195">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="conf2.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../chap-03/src/main/resources/conf2.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainForSpringConf1Conf2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../chap-03/src/main/java/main/MainForSpringConf1Conf2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#260#261#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#461#462#0" expanded="true" />
-                <element signature="e#511#512#0" expanded="true" />
-                <element signature="e#556#557#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MemberPrinter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../chap-03/src/main/java/spring/MemberPrinter.java">
+      <file leaf-file-name="configImport.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../chap-03/src/main/resources/configImport.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MemberListPrinter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../chap-03/src/main/java/spring/MemberListPrinter.java">
+      <file leaf-file-name="MainForSpringImport.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../chap-03/src/main/java/main/MainForSpringImport.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="appCtx.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../chap-03/src/main/resources/appCtx.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="54" lean-forward="false" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MemberInfoPrinter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../chap-03/src/main/java/spring/MemberInfoPrinter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+            <state relative-caret-position="200">
+              <caret line="61" column="30" lean-forward="true" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
               <folding>
-                <element signature="e#167#168#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#259#260#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -109,200 +100,11 @@
       <file leaf-file-name="MainForSpring.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../chap-03/src/main/java/main/MainForSpring.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="122" column="30" lean-forward="true" selection-start-line="122" selection-start-column="30" selection-end-line="122" selection-end-column="30" />
+            <state relative-caret-position="270">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChangePasswordService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../chap-03/src/main/java/spring/ChangePasswordService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JAVA/main.MainForAssembler" pinned="false" current-in-tab="false">
-        <entry file="uml://JAVA/main.MainForAssembler">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>main.MainForAssembler</OriginalElement>
-              <nodes>
-                <node x="483.0" y="237.0">spring.MemberRegisterService</node>
-                <node x="401.0" y="158.0">spring.MemberDao</node>
-                <node x="223.38041666666675" y="0.0">spring.IdPasswordNotMatchingException</node>
-                <node x="241.0" y="237.0">spring.ChangePasswordService</node>
-                <node x="607.7083333333333" y="158.0">spring.RegisterRequest</node>
-                <node x="0.0" y="158.0">spring.MemberNotFoundException</node>
-                <node x="435.50541666666675" y="79.0">spring.Member</node>
-                <node x="775.7083333333333" y="158.0">spring.AlreadyExistingMemberException</node>
-                <node x="405.5" y="326.0">assembler.Assembler</node>
-                <node x="409.0" y="425.0">main.MainForAssembler</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="main.MainForAssembler" target="assembler.Assembler">
-                  <point x="-17.888888888888914" y="-14.5" />
-                  <point x="471.6111111111111" y="375.0" />
-                  <point x="433.5" y="375.0" />
-                  <point x="-28.0" y="14.5" />
-                </edge>
-                <edge source="spring.MemberRegisterService" target="spring.RegisterRequest">
-                  <point x="47.75" y="-14.5" />
-                  <point x="626.25" y="217.0" />
-                  <point x="632.375" y="217.0" />
-                  <point x="-49.33333333333337" y="14.5" />
-                </edge>
-                <edge source="main.MainForAssembler" target="spring.RegisterRequest">
-                  <point x="35.77777777777783" y="-14.5" />
-                  <point x="525.2777777777778" y="385.0" />
-                  <point x="700.875" y="385.0" />
-                  <point x="700.875" y="207.0" />
-                  <point x="681.7083333333333" y="207.0" />
-                  <point x="0.0" y="14.5" />
-                </edge>
-                <edge source="main.MainForAssembler" target="spring.ChangePasswordService">
-                  <point x="-35.777777777777715" y="-14.5" />
-                  <point x="453.7222222222223" y="385.0" />
-                  <point x="272.09866402116404" y="385.0" />
-                  <point x="272.09866402116404" y="306.0" />
-                  <point x="265.875" y="306.0" />
-                  <point x="-74.625" y="14.5" />
-                </edge>
-                <edge source="spring.MemberRegisterService" target="spring.Member">
-                  <point x="-15.916666666666629" y="-14.5" />
-                  <point x="562.5833333333334" y="217.0" />
-                  <point x="573.0" y="217.0" />
-                  <point x="573.0" y="138.0" />
-                  <point x="503.4054166666667" y="138.0" />
-                  <point x="19.399999999999977" y="14.5" />
-                </edge>
-                <edge source="assembler.Assembler" target="spring.MemberRegisterService">
-                  <point x="24.888888888888914" y="-14.5" />
-                  <point x="486.3888888888889" y="286.0" />
-                  <point x="506.875" y="286.0" />
-                  <point x="-71.625" y="14.5" />
-                </edge>
-                <edge source="main.MainForAssembler" target="spring.MemberRegisterService">
-                  <point x="17.888888888888914" y="-14.5" />
-                  <point x="507.3888888888889" y="375.0" />
-                  <point x="635.6567526455027" y="375.0" />
-                  <point x="635.6567526455027" y="306.0" />
-                  <point x="650.125" y="306.0" />
-                  <point x="71.625" y="14.5" />
-                </edge>
-                <edge source="spring.Member" target="spring.IdPasswordNotMatchingException">
-                  <point x="0.0" y="-14.5" />
-                  <point x="484.00541666666675" y="54.0" />
-                  <point x="418.38041666666675" y="54.0" />
-                  <point x="65.0" y="14.5" />
-                </edge>
-                <edge source="main.MainForAssembler" target="spring.MemberNotFoundException">
-                  <point x="-71.55555555555554" y="-14.5" />
-                  <point x="417.94444444444446" y="405.0" />
-                  <point x="55.0" y="405.0" />
-                  <point x="-55.0" y="14.5" />
-                </edge>
-                <edge source="spring.MemberDao" target="spring.Member">
-                  <point x="-30.25" y="-14.5" />
-                  <point x="431.25" y="138.0" />
-                  <point x="464.60541666666677" y="138.0" />
-                  <point x="-19.399999999999977" y="14.5" />
-                </edge>
-                <edge source="assembler.Assembler" target="spring.MemberDao">
-                  <point x="-12.444444444444457" y="-14.5" />
-                  <point x="449.05555555555554" y="306.0" />
-                  <point x="450.5" y="306.0" />
-                  <point x="450.5" y="217.0" />
-                  <point x="444.21428571428567" y="217.0" />
-                  <point x="-17.285714285714278" y="14.5" />
-                </edge>
-                <edge source="spring.ChangePasswordService" target="spring.Member">
-                  <point x="-24.875" y="-14.5" />
-                  <point x="315.625" y="128.0" />
-                  <point x="445.20541666666674" y="128.0" />
-                  <point x="-38.80000000000001" y="14.5" />
-                </edge>
-                <edge source="spring.MemberRegisterService" target="spring.AlreadyExistingMemberException">
-                  <point x="79.58333333333337" y="-14.5" />
-                  <point x="658.0833333333334" y="217.0" />
-                  <point x="838.9583333333333" y="217.0" />
-                  <point x="-63.25" y="14.5" />
-                </edge>
-                <edge source="main.MainForAssembler" target="spring.IdPasswordNotMatchingException">
-                  <point x="-53.66666666666663" y="-14.5" />
-                  <point x="435.83333333333337" y="395.0" />
-                  <point x="230.5" y="395.0" />
-                  <point x="230.5" y="54.0" />
-                  <point x="288.38041666666675" y="54.0" />
-                  <point x="-65.0" y="14.5" />
-                </edge>
-                <edge source="assembler.Assembler" target="spring.ChangePasswordService">
-                  <point x="-24.888888888888857" y="-14.5" />
-                  <point x="436.61111111111114" y="286.0" />
-                  <point x="415.125" y="286.0" />
-                  <point x="74.625" y="14.5" />
-                </edge>
-                <edge source="spring.ChangePasswordService" target="spring.MemberDao">
-                  <point x="24.875" y="-14.5" />
-                  <point x="365.375" y="217.0" />
-                  <point x="409.6428571428571" y="217.0" />
-                  <point x="-51.85714285714283" y="14.5" />
-                </edge>
-                <edge source="spring.ChangePasswordService" target="spring.MemberNotFoundException">
-                  <point x="-74.625" y="-14.5" />
-                  <point x="265.875" y="217.0" />
-                  <point x="165.0" y="217.0" />
-                  <point x="55.0" y="14.5" />
-                </edge>
-                <edge source="main.MainForAssembler" target="spring.AlreadyExistingMemberException">
-                  <point x="71.55555555555554" y="-14.5" />
-                  <point x="561.0555555555555" y="405.0" />
-                  <point x="965.4583333333333" y="405.0" />
-                  <point x="63.25" y="14.5" />
-                </edge>
-                <edge source="spring.MemberRegisterService" target="spring.MemberDao">
-                  <point x="-79.58333333333326" y="-14.5" />
-                  <point x="498.91666666666674" y="217.0" />
-                  <point x="496.07142857142856" y="217.0" />
-                  <point x="34.571428571428555" y="14.5" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="0.7615043265633585" x="158.16564204317962" y="284.1656420431796" />
-              <SelectedNodes />
-              <Categories />
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MemberRegisterService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../chap-03/src/main/java/spring/MemberRegisterService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-              <folding>
-                <element signature="e#167#168#0" expanded="true" />
-                <element signature="e#209#210#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RegisterRequest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../chap-03/src/main/java/spring/RegisterRequest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -362,13 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/resources/spring-member.xml" />
-        <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/java/controller/LogoutController.java" />
-        <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/webapp/WEB-INF/view/main.jsp" />
-        <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/java/controller/ChangePwdCommand.java" />
-        <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/java/controller/ChangePwdCommandValidator.java" />
-        <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/webapp/WEB-INF/view/edit/changedPwd.jsp" />
-        <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/webapp/WEB-INF/view/edit/changePwdForm.jsp" />
         <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/java/controller/ChangePwdController.java" />
         <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/resources/spring-controller.xml" />
         <option value="$PROJECT_DIR$/../sp4-chap0012/src/main/java/interceptor/AuthCheckinterceptor.java" />
@@ -410,9 +205,16 @@
         <option value="$PROJECT_DIR$/../chap-03/src/main/java/spring/MemberDao.java" />
         <option value="$PROJECT_DIR$/../chap-03/src/main/java/spring/MemberPrinter.java" />
         <option value="$PROJECT_DIR$/../chap-03/src/main/java/spring/MemberListPrinter.java" />
-        <option value="$PROJECT_DIR$/../chap-03/src/main/resources/appCtx.xml" />
         <option value="$PROJECT_DIR$/../chap-03/src/main/java/spring/MemberInfoPrinter.java" />
         <option value="$PROJECT_DIR$/../chap-03/src/main/java/main/MainForSpring.java" />
+        <option value="$PROJECT_DIR$/../chap-03/src/main/java/spring/VersionPrinter.java" />
+        <option value="$PROJECT_DIR$/../chap-03/src/main/resources/appCtx.xml" />
+        <option value="$PROJECT_DIR$/../chap-03/src/main/resources/conf1.xml" />
+        <option value="$PROJECT_DIR$/../chap-03/src/main/resources/conf2.xml" />
+        <option value="$PROJECT_DIR$/../chap-03/src/main/java/main/MainForSpringConf1Conf2.java" />
+        <option value="$PROJECT_DIR$/../chap-03/src/main/resources/configImport.xml" />
+        <option value="$PROJECT_DIR$/../chap-03/src/main/java/main/MainforStpringImport.java" />
+        <option value="$PROJECT_DIR$/../chap-03/src/main/java/main/MainForSpringImport.java" />
       </list>
     </option>
   </component>
@@ -579,6 +381,13 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sp4-chap006" type="b2602c69:ProjectViewProjectNode" />
+              <item name="chap-03" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="sp4-chap006" type="b2602c69:ProjectViewProjectNode" />
@@ -1029,12 +838,12 @@
       <workItem from="1511765381467" duration="20257000" />
       <workItem from="1511953587181" duration="2928000" />
       <workItem from="1512029607709" duration="331000" />
-      <workItem from="1512029990915" duration="6632000" />
+      <workItem from="1512029990915" duration="11037000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136549000" />
+    <option name="totallyTimeSpent" value="140954000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1059,7 +868,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51755726" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4335878" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4717557" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1070,7 +879,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6687023" sideWeight="0.49676898" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26494345" sideWeight="0.45954198" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31663975" sideWeight="0.45954198" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1114,50 +923,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.1.0.RELEASE/spring-context-4.1.0.RELEASE-sources.jar!/org/springframework/context/support/GenericApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="91" column="0" lean-forward="false" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/4.1.0.RELEASE/spring-context-4.1.0.RELEASE-sources.jar!/org/springframework/context/support/AbstractApplicationContext.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="153" column="0" lean-forward="false" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3-sources.jar!/org/apache/commons/logging/LogFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="656" column="0" lean-forward="false" selection-start-line="656" selection-start-column="0" selection-end-line="656" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../chap-02/src/main/java/chap02/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../chap-02/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/java/spring/ChangePasswordService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../sp4-chap0012/src/main/java/spring/IdPasswordNotMatchingException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1623,18 +1388,12 @@
             </edge>
           </edges>
           <settings layout="Hierarchic Group" zoom="0.7615043265633585" x="158.16564204317962" y="284.1656420431796" />
-          <SelectedNodes />
+          <SelectedNodes>
+            <node>main.MainForAssembler</node>
+          </SelectedNodes>
           <Categories />
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../chap-03/src/main/java/spring/ChangePasswordService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1656,32 +1415,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../chap-03/src/main/java/spring/MemberListPrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../chap-03/src/main/resources/appCtx.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="54" lean-forward="false" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../chap-03/src/main/java/main/MainForSpring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="122" column="30" lean-forward="true" selection-start-line="122" selection-start-column="30" selection-end-line="122" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../chap-03/src/main/java/spring/MemberDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1698,6 +1431,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../chap-03/src/main/java/spring/MemberPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chap-03/src/main/java/spring/ChangePasswordService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chap-03/src/main/java/spring/VersionPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chap-03/src/main/java/spring/MemberListPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="35" lean-forward="true" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chap-03/src/main/resources/appCtx.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../chap-03/src/main/java/spring/MemberInfoPrinter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1711,11 +1489,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../chap-03/src/main/java/spring/MemberPrinter.java">
+    <entry file="file://$PROJECT_DIR$/../chap-03/src/main/resources/conf1.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="44" lean-forward="false" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chap-03/src/main/resources/conf2.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="28" lean-forward="false" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chap-03/src/main/java/main/MainForSpringConf1Conf2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="31" lean-forward="true" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chap-03/src/main/resources/configImport.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chap-03/src/main/java/main/MainForSpring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chap-03/src/main/java/main/MainForSpringImport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="61" column="30" lean-forward="true" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

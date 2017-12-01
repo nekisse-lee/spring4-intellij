@@ -28,5 +28,22 @@
         <property name="printer" ref="memberPrinter"/>
     </bean>
 
+    <bean id="versionPrinter" class="spring.VersionPrinter">
+
+        <property name="majorVersion" value="4"/>
+        <property name="minorVersion" >
+            <value>1</value>
+        </property>
+
+<!--
+        <생성자를 이용해서 값 설정 >
+        <constructor-arg  value="1"/>
+        <constructor-arg  value="2"/>
+-->
+
+    </bean>
+
+
+
 
 </beans>
