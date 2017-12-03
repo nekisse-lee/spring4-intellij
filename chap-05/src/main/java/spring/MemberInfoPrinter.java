@@ -7,10 +7,13 @@ public class MemberInfoPrinter {
 	private MemberDao memDao;
 	private MemberPrinter printer;
 
+	@Autowired
 	public void setMemberDao(MemberDao memberDao) {
+		System.out.println("MemberInfoPrinter 주입: " + memberDao);
 		this.memDao = memberDao;
 	}
 
+	@Autowired
 	public void setPrinter(MemberPrinter printer) {
 		System.out.println("setPrinter: " + printer);
 		this.printer = printer;
