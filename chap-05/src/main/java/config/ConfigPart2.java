@@ -13,6 +13,9 @@ public class ConfigPart2 {
     @Autowired
     private MemberDao memberDao;
 
+    //	@Autowired
+//	private ConfigPart1 configPart1;
+
     @Bean
     public MemberPrinter printer(){
         return new MemberPrinter();
@@ -22,6 +25,7 @@ public class ConfigPart2 {
     public MemberInfoPrinter infoPrinter(){
         MemberInfoPrinter infoPrinter = new MemberInfoPrinter();
         infoPrinter.setMemberDao(memberDao);
+        //infoPrinter.setMemberDao(configPart1.memberDao());
         infoPrinter.setPrinter(printer());
         return infoPrinter;
     }
