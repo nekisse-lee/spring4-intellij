@@ -6,7 +6,7 @@
 
     <bean id="exeTimeAspect" class="aspect.ExeTimeAspect"/>
 
-    <aop:config>
+    <aop:config proxy-target-class="true">
         <aop:aspect id="measureAspect" ref="exeTimeAspect">
             <aop:pointcut id="publicMethod"
                           expression="execution(public * chap07..*(..))"/>

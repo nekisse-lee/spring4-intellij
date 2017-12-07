@@ -1,6 +1,7 @@
 package main;
 
 import chap07.Calculator;
+import chap07.ImpeCalculator;
 import org.springframework.context.support.GenericXmlApplicationContext;
 
 public class MainXmlPojo {
@@ -10,7 +11,7 @@ public class MainXmlPojo {
         GenericXmlApplicationContext ctx =
                 new GenericXmlApplicationContext("classpath:aopPojo.xml");
 
-        Calculator impeCal = ctx.getBean("impeCal", Calculator.class);
+        Calculator impeCal = ctx.getBean("impeCal", ImpeCalculator.class);
         long fiveFact1 = impeCal.factorial(5);
         System.out.println("impeCal.factorial(5) = " + fiveFact1);
 
