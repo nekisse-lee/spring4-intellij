@@ -2,6 +2,7 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/../../sp4-chap0011" />
+    <file type="web" url="file://$PROJECT_DIR$/../chap-09" />
     <file type="web" url="file://$PROJECT_DIR$/../sp4-chap0011" />
     <file type="web" url="file://$PROJECT_DIR$/../sp4-chap0012" />
     <file type="web" url="file://$PROJECT_DIR$/../sp4-chap0013" />
@@ -29,6 +30,7 @@
         <option value="$PROJECT_DIR$/../chap-06/pom.xml" />
         <option value="$PROJECT_DIR$/../chap-07/pom.xml" />
         <option value="$PROJECT_DIR$/../chap-08/pom.xml" />
+        <option value="$PROJECT_DIR$/../chap-09/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
