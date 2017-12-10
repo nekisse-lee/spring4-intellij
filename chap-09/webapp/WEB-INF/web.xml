@@ -13,8 +13,8 @@
         <init-param>
             <param-name>contextConfigLocation</param-name>
             <param-value>
-                WEB-INF/spring-mvc.xml
-                WEB-INF/spring-controller.xml
+                webapp/WEB-INF/spring-mvc.xml
+                webapp/WEB-INF/spring-controller.xml
             </param-value>
         </init-param>
         <load-on-startup>1</load-on-startup>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+         http://www.springframework.org/schema/context
+          http://www.springframework.org/schema/context/spring-context.xsd">
+
+
+    <context:annotation-config/>
+
+    <bean id="memberDao" class="spring.MemberDao"/>
+
+    <bean id="memberRegSvc" class="spring.MemberRegisterService"/>
+
+
+
+    <bean id="memberPrinter" class="spring.MemberPrinter"/>
+
+    <bean id="infoPrinter" class="spring.MemberInfoPrinter">
+        <property name="printer" ref="printer2"/>
+        <!--        명시적의존설정인 <property name="printer" ref="printer2"/> 가 자동주입된다.        -->
+    </bean>
+
+    <bean id="printer" class="spring.MemberPrinter"/>
+    <bean id="printer2" class="spring.MemberPrinter"/>
+
+</beans>
