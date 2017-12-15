@@ -28,7 +28,8 @@ public class ChangePwdController {
     }
 
     @RequestMapping(method = RequestMethod.POST)
-    public String submit(@ModelAttribute("command") ChangePwdCommand pwdCmd, Errors errors, HttpSession session) {
+    public String submit(@ModelAttribute("command") ChangePwdCommand pwdCmd,
+                         Errors errors, HttpSession session) {
         new ChangePwdCommandValidator().validate(pwdCmd, errors);
         if (errors.hasErrors()) {
             return "edit/changePwdForm";

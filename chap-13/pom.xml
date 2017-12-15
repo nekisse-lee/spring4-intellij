@@ -7,7 +7,10 @@
     <groupId>sp4</groupId>
     <artifactId>chap-13</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <modules>
+        <module>../../chap-14</module>
+    </modules>
+    <packaging>pom</packaging>
 
     <dependencies>
         <dependency>
