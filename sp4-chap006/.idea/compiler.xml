@@ -18,6 +18,8 @@
         <module name="chap-12" />
         <module name="chap-14" />
         <module name="chap03" />
+        <module name="ex02" />
+        <module name="ex03" />
         <module name="sp4-chap0011" />
         <module name="sp4-chap0012" />
         <module name="sp4-chap0013" />
@@ -40,6 +42,8 @@
       <module name="chap-13" target="1.7" />
       <module name="chap-14" target="1.7" />
       <module name="chap03" target="1.7" />
+      <module name="ex02" target="1.7" />
+      <module name="ex03" target="1.7" />
       <module name="sp4-chap0011" target="1.7" />
       <module name="sp4-chap0012" target="1.7" />
       <module name="sp4-chap0013" target="1.7" />
