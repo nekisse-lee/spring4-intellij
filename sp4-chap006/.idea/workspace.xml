@@ -70,25 +70,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MemberRegisterService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ex04/src/main/java/spring/MemberRegisterService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
-                <element signature="e#306#307#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MemberInfoPrinter.java" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/java/spring/MemberInfoPrinter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <state relative-caret-position="90">
+              <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -104,45 +90,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MemberRegisterService.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MemberRegisterService.java" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/java/spring/MemberRegisterService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+              <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#289#290#0" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="appCtx4.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/resources/appCtx4.xml">
+      <file leaf-file-name="appCtx5.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/resources/appCtx5.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            <state relative-caret-position="240">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/java/main/Main3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main5.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main5.java" pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/java/main/Main5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="300">
+              <caret line="25" column="54" lean-forward="false" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -214,7 +190,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../chap-13/src/main/resources/message/label.properties" />
         <option value="$PROJECT_DIR$/../chap-13/webapp/WEB-INF/spring-controller.xml" />
         <option value="$PROJECT_DIR$/../chap-13/src/main/java/controller/MemberDetailController.java" />
         <option value="$PROJECT_DIR$/../chap-13/webapp/WEB-INF/view/member/noMember.jsp" />
@@ -263,8 +238,9 @@
         <option value="$PROJECT_DIR$/../ex04/src/main/resources/appCtx1.xml" />
         <option value="$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/java/main/Main3.java" />
         <option value="$PROJECT_DIR$/../ex04/src/main/java/spring/MemberRegisterService.java" />
-        <option value="$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/java/spring/MemberInfoPrinter.java" />
+        <option value="$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/resources/appCtx5.xml" />
         <option value="$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/java/spring/MemberRegisterService.java" />
+        <option value="$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/java/spring/MemberInfoPrinter.java" />
       </list>
     </option>
   </component>
@@ -414,6 +390,21 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="sp4-chap006" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sp4-chap04" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sp4-chap006" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sp4-chap04" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -457,7 +448,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="SearchEverywhereHistoryKey" value="ctx4&#9;FILE&#9;file:///Users/nekisse/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/resources/appCtx4.xml&#10;infoprinter&#9;FILE&#9;file:///Users/nekisse/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/java/spring/MemberInfoPrinter.java&#10;registerser&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/sp4/ex04/src/main/java/spring/MemberRegisterService.java&#10;InfoPri&#9;FILE&#9;file:///Users/nekisse/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/java/spring/MemberInfoPrinter.java&#10;MemberRegis&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/sp4/ex04/src/main/java/spring/MemberRegisterService.java&#10;MemberInfoPrin&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/sp4/ex04/src/main/java/spring/MemberInfoPrinter.java&#10;memberDao&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/sp4/ex03/src/main/java/spring/MemberDao.java&#10;springcon&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/sp4/chap-12/webapp/WEB-INF/spring-controller.xml&#10;logout&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/sp4/chap-12/src/main/java/controller/LogoutController.java&#10;changepassword&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/sp4/sp4-chap0012/src/main/java/spring/ChangePasswordService.java&#10;ㅁㅔㅔㅊㅅㅌ&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/sp4/sp4-chap008/src/main/resources/appCTX.xml" />
+    <property name="SearchEverywhereHistoryKey" value="info&#9;FILE&#9;file:///Users/nekisse/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/java/spring/MemberInfoPrinter.java&#10;infop&#9;FILE&#9;file:///Users/nekisse/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/java/spring/MemberInfoPrinter.java&#10;ctx4&#9;FILE&#9;file:///Users/nekisse/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/resources/appCtx4.xml&#10;infoprinter&#9;FILE&#9;file:///Users/nekisse/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/java/spring/MemberInfoPrinter.java&#10;registerser&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/sp4/ex04/src/main/java/spring/MemberRegisterService.java&#10;InfoPri&#9;FILE&#9;file:///Users/nekisse/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/java/spring/MemberInfoPrinter.java&#10;MemberRegis&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/sp4/ex04/src/main/java/spring/MemberRegisterService.java&#10;MemberInfoPrin&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/sp4/ex04/src/main/java/spring/MemberInfoPrinter.java&#10;memberDao&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/sp4/ex03/src/main/java/spring/MemberDao.java&#10;springcon&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/sp4/chap-12/webapp/WEB-INF/spring-controller.xml&#10;logout&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/sp4/chap-12/src/main/java/controller/LogoutController.java&#10;changepassword&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/sp4/sp4-chap0012/src/main/java/spring/ChangePasswordService.java&#10;ㅁㅔㅔㅊㅅㅌ&#9;FILE&#9;file:///Users/nekisse/Documents/intellij_workspace/sp4/sp4-chap008/src/main/resources/appCTX.xml" />
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
@@ -505,7 +496,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main4">
+  <component name="RunManager" selected="Application.Main5">
     <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -544,14 +535,14 @@
       <module name="sp4-chap04" />
       <envs />
     </configuration>
-    <configuration name="MainForAssembler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="main.MainForAssembler" />
+      <option name="MAIN_CLASS_NAME" value="main.Main5" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -560,7 +551,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ex03" />
+      <module name="sp4-chap04" />
       <envs />
     </configuration>
     <configuration name="MainForSpring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -828,19 +819,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Tomcat Server.sp4 tomcat7" />
       <item index="1" class="java.lang.String" itemvalue="Tomcat Server.Unnamed" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MainForAssembler" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MainForSpring" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MainForSpring2" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Main3" />
-      <item index="6" class="java.lang.String" itemvalue="Application.Main4" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MainForSpring" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MainForSpring2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main3" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Main4" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Main5" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main4" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main3" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MainForSpring2" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MainForSpring" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MainForAssembler" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main5" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main4" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main3" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MainForSpring2" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MainForSpring" />
       </list>
     </recent_temporary>
   </component>
@@ -896,12 +887,12 @@
       <workItem from="1514877504359" duration="547000" />
       <workItem from="1514972072677" duration="949000" />
       <workItem from="1515486542491" duration="118000" />
-      <workItem from="1517290308022" duration="18551000" />
+      <workItem from="1517290308022" duration="20142000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="253774000" />
+    <option name="totallyTimeSpent" value="255365000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -914,6 +905,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8564885" sideWeight="0.503231" order="7" side_tool="true" content_ui="tabs" />
@@ -925,7 +917,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.50076336" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50076336" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4717557" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -967,33 +959,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../ex02/src/main/java/chap02/main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ex02/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="21" lean-forward="true" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../ex03/src/main/java/spring/IdPasswordNotMatchingException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../ex03/src/main/java/spring/AlreadyExistingMemberException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1375,14 +1340,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/resources/appCtx3.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="24" lean-forward="false" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../ex04/src/main/resources/appCtx1.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -1411,14 +1368,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/java/main/Main5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/java/main/Main3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1427,19 +1376,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/resources/appCtx4.xml">
+    <entry file="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/resources/appCtx1.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/java/spring/MemberInfoPrinter.java">
+    <entry file="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/resources/appCtx2.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/resources/appCtx3.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/resources/appCtx4.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/resources/appCtx5.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/java/spring/MemberRegisterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1451,15 +1436,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/java/spring/MemberRegisterService.java">
+    <entry file="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/java/spring/MemberInfoPrinter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/src/main/java/main/Main5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="25" column="54" lean-forward="false" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+          <folding />
         </state>
       </provider>
     </entry>
