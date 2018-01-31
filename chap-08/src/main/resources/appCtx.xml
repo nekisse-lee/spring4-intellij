@@ -16,7 +16,7 @@
         <property name="password" value="spring4" />
     </bean>
 
-    <bean id="memberDao" class="spring.MemberDao">
+    <bean id="memDao" class="spring.MemberDao">
         <constructor-arg ref="dataSource" />
     </bean>
 
@@ -28,23 +28,23 @@
     <tx:annotation-driven transaction-manager="transactionManager"/>
 
     <bean id="changePwdSvc" class="spring.ChangePasswordService">
-        <constructor-arg ref="memberDao" />
+        <constructor-arg ref="memDao" />
     </bean>
 
     <bean id="memberRegSvc" class="spring.MemberRegisterService">
-        <constructor-arg ref="memberDao" />
+        <constructor-arg ref="memDao" />
     </bean>
 
     <bean id="memberPrinter" class="spring.MemberPrinter">
     </bean>
 
     <bean id="listPrinter" class="spring.MemberListPrinter">
-        <constructor-arg ref="memberDao" />
+        <constructor-arg ref="memDao" />
         <constructor-arg ref="memberPrinter" />
     </bean>
 
     <bean id="infoPrinter" class="spring.MemberInfoPrinter">
-        <property name="memberDao" ref="memberDao" />
+        <property name="memDao" ref="memDao" />
         <property name="printer" ref="memberPrinter" />
     </bean>
 

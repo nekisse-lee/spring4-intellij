@@ -24,19 +24,19 @@ profile="dev">
 		<property name="dataSource" ref="dataSource" />
 	</bean>
 
-	<bean id="memberDao" class="spring.MemberDao">
+	<bean id="memDao" class="spring.MemberDao">
 		<constructor-arg ref="dataSource" />
 	</bean>
 	
  	<bean id="memberRegSvc" class="spring.MemberRegisterService">
-		<constructor-arg ref="memberDao" />
+		<constructor-arg ref="memDao" />
 	</bean>
 
 	<bean id="changePwdSvc" class="spring.ChangePasswordService">
-		<constructor-arg ref="memberDao" />
+		<constructor-arg ref="memDao" />
 	</bean>
 
 	<bean id="authService" class="spring.AuthService">
-		<property name="memberDao" ref="memberDao"/>
+		<property name="memDao" ref="memDao"/>
 	</bean>
 </beans>

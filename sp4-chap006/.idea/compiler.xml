@@ -20,10 +20,13 @@
         <module name="chap03" />
         <module name="ex02" />
         <module name="ex03" />
+        <module name="ex04" />
         <module name="sp4-chap0011" />
         <module name="sp4-chap0012" />
         <module name="sp4-chap0013" />
         <module name="sp4-chap0014" />
+        <module name="sp4-chap04" />
+        <module name="sp4-chap05" />
         <module name="sp4-chap11" />
         <module name="sp4chap0011" />
       </profile>
@@ -44,6 +47,7 @@
       <module name="chap03" target="1.7" />
       <module name="ex02" target="1.7" />
       <module name="ex03" target="1.7" />
+      <module name="ex04" target="1.7" />
       <module name="sp4-chap0011" target="1.7" />
       <module name="sp4-chap0012" target="1.7" />
       <module name="sp4-chap0013" target="1.7" />
@@ -53,6 +57,8 @@
       <module name="sp4-chap008" target="1.7" />
       <module name="sp4-chap009" target="1.7" />
       <module name="sp4-chap011" target="1.7" />
+      <module name="sp4-chap04" target="1.7" />
+      <module name="sp4-chap05" target="1.7" />
       <module name="sp4-chap09" target="1.5" />
       <module name="sp4-chap11" target="1.7" />
       <module name="sp4chap0011" target="1.7" />

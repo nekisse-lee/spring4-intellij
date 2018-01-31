@@ -4,15 +4,15 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 
-    <bean id="memberDao" class="spring.MemberDao">
+    <bean id="memDao" class="spring.MemberDao">
     </bean>
 
     <bean id="memberRegSvc" class="spring.MemberRegisterService">
-        <constructor-arg ref="memberDao"/>
+        <constructor-arg ref="memDao"/>
     </bean>
 
     <bean id="listPrinter" class="spring.MemberListPrinter">
-        <constructor-arg ref="memberDao"/>
+        <constructor-arg ref="memDao"/>
         <constructor-arg ref="memberPrinter"/>
     </bean>
 
@@ -20,11 +20,11 @@
     </bean>
 
     <bean id="changePwdSvc" class="spring.ChangePasswordService">
-        <constructor-arg ref="memberDao"/>
+        <constructor-arg ref="memDao"/>
     </bean>
 
     <bean id="infoPrinter" class="spring.MemberInfoPrinter">
-        <property name="memberDao" ref="memberDao"/>
+        <property name="memDao" ref="memDao"/>
         <property name="printer" ref="memberPrinter"/>
     </bean>
 

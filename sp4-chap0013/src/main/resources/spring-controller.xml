@@ -38,10 +38,10 @@
 	</mvc:interceptors>
 
 	<bean class="controller.MemberListController">
-		<property name="memberDao" ref="memberDao"/>
+		<property name="memDao" ref="memDao"/>
 	</bean>
 
 	<bean class="controller.MemberDetailController">
-		<property name="memberDao" ref="memberDao"/>
+		<property name="memDao" ref="memDao"/>
 	</bean>
 </beans>

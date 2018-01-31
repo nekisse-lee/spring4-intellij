@@ -10,7 +10,7 @@
 
     <context:annotation-config/>
 
-    <bean id="memberDao" class="spring.MemberDao"/>
+    <bean id="memDao" class="spring.MemberDao"/>
 
     <bean id="memberRegSvc" class="spring.MemberRegisterService"/>
 

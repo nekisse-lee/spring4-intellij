@@ -8,11 +8,11 @@
 
     <bean class="config.JavaSubConf"/>
 
-    <bean id="memberDao" class="spring.MemberDao"/>
+    <bean id="memDao" class="spring.MemberDao"/>
 
 
     <bean id="infoPrinter" class="spring.MemberInfoPrinter">
-        <property name="memberDao" ref="memberDao"/>
+        <property name="memDao" ref="memDao"/>
         <property name="printer" ref="memberPrinter"/>
     </bean>
 
