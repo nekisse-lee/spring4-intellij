@@ -1,6 +1,6 @@
 package main;
 
-import config.JavaConfig2;
+import conf.JavaConfig2;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import spring.MemberInfoPrinter;

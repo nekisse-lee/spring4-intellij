@@ -18,6 +18,8 @@
       <module fileurl="file://$PROJECT_DIR$/../ex03/ex03.iml" filepath="$PROJECT_DIR$/../ex03/ex03.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ex04/ex04.iml" filepath="$PROJECT_DIR$/../ex04/ex04.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ex05/ex05.iml" filepath="$PROJECT_DIR$/../ex05/ex05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ex06/ex06.iml" filepath="$PROJECT_DIR$/../ex06/ex06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ex07/ex07.iml" filepath="$PROJECT_DIR$/../ex07/ex07.iml" />
       <module fileurl="file://$PROJECT_DIR$/../sp4-chap0011/sp4-chap0011.iml" filepath="$PROJECT_DIR$/../sp4-chap0011/sp4-chap0011.iml" />
       <module fileurl="file://$PROJECT_DIR$/../sp4-chap0012/sp4-chap0012.iml" filepath="$PROJECT_DIR$/../sp4-chap0012/sp4-chap0012.iml" />
       <module fileurl="file://$PROJECT_DIR$/../sp4-chap0013/sp4-chap0013.iml" filepath="$PROJECT_DIR$/../sp4-chap0013/sp4-chap0013.iml" />
@@ -29,6 +31,8 @@
       <module fileurl="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap03/sp4-chap03.iml" filepath="$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap03/sp4-chap03.iml" />
       <module fileurl="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/sp4-chap04.iml" filepath="$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap04/sp4-chap04.iml" />
       <module fileurl="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap05/sp4-chap05.iml" filepath="$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap05/sp4-chap05.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap06/sp4-chap06.iml" filepath="$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap06/sp4-chap06.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap07/sp4-chap07.iml" filepath="$USER_HOME$/Desktop/공부 예제 폴더/spring4fs-master/sp4-chap07/sp4-chap07.iml" />
       <module fileurl="file://$PROJECT_DIR$/../sp4-chap11/sp4-chap11.iml" filepath="$PROJECT_DIR$/../sp4-chap11/sp4-chap11.iml" />
     </modules>
   </component>

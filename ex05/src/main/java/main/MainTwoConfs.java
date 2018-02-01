@@ -1,7 +1,7 @@
 package main;
 
-import config.ConfigPart1;
-import config.ConfigPart2;
+import conf.ConfigPart1;
+import conf.ConfigPart2;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import spring.MemberInfoPrinter;

@@ -1,6 +1,6 @@
 package main;
 
-import config.JavaConfig;
+import conf.JavaConfig;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.support.AbstractApplicationContext;
 import spring.Client2;

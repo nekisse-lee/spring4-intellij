@@ -1,7 +1,7 @@
 package main;
 
 import chap007.Calculator;
-import config.JavaConfig;
+import conf.JavaConfig;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 

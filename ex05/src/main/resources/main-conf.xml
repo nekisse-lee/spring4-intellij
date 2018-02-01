@@ -8,7 +8,7 @@
 
     <context:annotation-config></context:annotation-config>
 
-    <bean id="" class="config.JavaSubConf">
+    <bean id="" class="conf.JavaSubConf">
     </bean>
 
     <bean id="memberDao" class="spring.MemberDao">

@@ -1,6 +1,6 @@
 package main;
 
-import config.JavaConfigPrototype;
+import conf.JavaConfigPrototype;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.GenericXmlApplicationContext;
