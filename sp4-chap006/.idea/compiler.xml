@@ -25,6 +25,7 @@
         <module name="ex06" />
         <module name="ex07" />
         <module name="ex08" />
+        <module name="ex09" />
         <module name="sp4-chap0011" />
         <module name="sp4-chap0012" />
         <module name="sp4-chap0013" />
@@ -60,6 +61,7 @@
       <module name="ex06" target="1.7" />
       <module name="ex07" target="1.7" />
       <module name="ex08" target="1.7" />
+      <module name="ex09" target="1.7" />
       <module name="sp4-chap0011" target="1.7" />
       <module name="sp4-chap0012" target="1.7" />
       <module name="sp4-chap0013" target="1.7" />
