@@ -2,14 +2,17 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="sp4-chap007" />
+        <module name="ex11" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ex-09" target="1.7" />
+      <module name="ex11" target="1.7" />
       <module name="sp4-chap006" target="1.7" />
       <module name="sp4-chap007" target="1.5" />
     </bytecodeTargetLevel>
